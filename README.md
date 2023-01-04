@@ -7,8 +7,8 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yybht155&hide_border=true&radius=8&bg_color=ffffff&color=000000&line=663333&title_color=666666&&hide_title=true"/>
 </div>
 
-<!-- GitHub数据统计 -->
+
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5ae" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dffe" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yybht155&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yybht155&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
