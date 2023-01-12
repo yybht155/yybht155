@@ -1,4 +1,4 @@
-## Hey 👋, I'm Loofra! Glad to see you here!  
+## 👋 Hey, I'm Loofra !  Glad to see you here !  
   
 
 <!-- <a href="https://github.com/yybht155" target="_blank">
